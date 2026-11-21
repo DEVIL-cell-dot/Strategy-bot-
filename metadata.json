@@ -1,0 +1,8 @@
+{
+  "name": "Nison CandleBot",
+  "description": "Book-strict Japanese candlestick signal bot and convergence analyzer built strictly on Steve Nison's Japanese Candlestick Charting Techniques (2nd Edition).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
